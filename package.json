@@ -1,0 +1,11 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "Server made from scratch using node.js",
+  "main": "echo-server.js",
+  "scripts": {
+    "start": "node exho-server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
